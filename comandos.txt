@@ -1,0 +1,5 @@
+git config --list => Nos permite ver la configuración de quien esta haciendo los cambios.
+git config --list --show-origin => Podemos ver donde estan guardadas las configuraciones
+
+git config --global user.name "Pablo"=> Comando para cambiar el nombre del usurario
+git config --global user.email "pablo@gmail.com" => Comando para cambiar el email del usuario.
