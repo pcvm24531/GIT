@@ -1,0 +1,5 @@
+Si un archivo ha sido agregado pero no fue comiteado, PODEMOS SACRLO CON EL Comandos
+
+#git rm nombreArchivos.ext
+
+#git rm --cached nombreArchivos.ext //cached para sacar del stage
