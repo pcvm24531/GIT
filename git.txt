@@ -1,0 +1,19 @@
+Git es un sistema de control de versiones distribuido que permite reistar cambios que realizamos en nuestros proyectos y volver a versiones anteriores.
+Git obtiene mayor eficiencia usando archivos de texto plano y no asi con archivos binarios(Imagenes)
+Caracteristicas de Git
+-Control de versiones
+-Ramificacion
+-Colaboracion
+-Seguridad
+-Flexibilidad
+-Comandos
+
+GITHUB
+Es una plataforma de desarrollo colaborativo para proyectos utilizando el sistema de control de versiones GIT.
+Caracteristicas de GITHUB
+-Permite alojar proyectos en repositorios de forma gratuita y pública, pero tiene una forma de pago para privados.
+-Permite compartir facilemte tus proyectos
+-Permite colaborar para mejorar proyecto de terceros
+-Ayuda a reducir los errores humanos, a tener un mejor mantenimiento de distintos entornos y detectar fallos de manera más rápida.
+-es la opción perfecta pra poder trabajar en equipo en un mismo proyecto.
+-Ofrece todas las ventajas del sistema de control de versiones Git, per también tiene otras herramientas que ayudan a tener un mejor control de los proyectos.

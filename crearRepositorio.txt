@@ -1,0 +1,2 @@
+Para crer un repositorio se debe ubicar en la carpeta central de los archivos.
+Emeplo: En un desarrollo HTML la carpeta central esta donde se encuentra el archivo index.html
