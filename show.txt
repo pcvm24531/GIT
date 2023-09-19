@@ -1,0 +1,2 @@
+#GIT SHOW
+git show nombreArchivo.ext => Muestra los cambios que han existido sobre un archivo.

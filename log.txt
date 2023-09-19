@@ -1,0 +1,2 @@
+#GIT LOG
+git log nombreArchvo.ext => Muestra la historia de un archivo.

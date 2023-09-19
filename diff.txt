@@ -1,0 +1,3 @@
+#GIT DIFF
+git diff 6fc600838f28c34ce9e5c2f7df33fdd0561ea76f 23423sdfsdfsdfsdfsdfs => Muestra la diferencia entre 2 commits, los caracteres indican el numero del commit o identificados
+                                                                           Se puede comparar el primer commit con el ultimo o biceversa, dependiendo cual ID del commit se ingrese primero
