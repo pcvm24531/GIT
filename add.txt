@@ -1,0 +1,3 @@
+#GIT ADD
+git add nombreArchivo.txt => Agregar el archivo al staging.
+git add . => Agrega todos los archivos al stagin.

@@ -1,0 +1,3 @@
+#GIT COMMIT
+git commit -m 'Descripcion de los cambios' => El comando commit coloca los archivos al repositorio, el repositorio tiene un nombre por defecto, su nombre es 'master'
+                => master es el lugar donde estan todos los cambios que realizamos en un proyecto

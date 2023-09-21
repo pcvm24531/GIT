@@ -1,0 +1,3 @@
+#GIT INIT 
+git init => Crea un area en memoria RAM que se llama staging, es un area completamente desconectado, donde inicialmente se van agregando los cambios.
+         => Tambien se grea el repositorio, donde se encuentra el archivo /.git/ aqui se encuentran todos los cambios
