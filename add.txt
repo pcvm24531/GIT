@@ -1,3 +1,4 @@
-#GIT ADD
-git add nombreArchivo.txt => Agregar el archivo al staging.
+#GIT ADD, con este comando trackeamos los archivos, esto hace seguimiento de cada uno de los cambios.
+STAGIN es un area de preparación un área temporal, donde guardamos los cambios antes de mandarlo al repositorio.
+git add nombreArchivo.txt => Agregar el archivo al staging area. Stagin es la memoria RAM, y el repositorio real es cuando hacemos commit
 git add . => Agrega todos los archivos al stagin.

@@ -1,2 +1,3 @@
 #GIT LOG
-git log nombreArchvo.ext => Muestra la historia de un archivo.
+$git log nombreArchvo.ext => Muestra la historia de un archivo.
+$git log --stat => Muestra los cambios especificos en los archivos.

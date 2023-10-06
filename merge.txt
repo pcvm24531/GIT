@@ -1,0 +1,3 @@
+//Para hacer merge entre dos ramas se debe seguir el siguiente comando
+1.-Situarse en la rama destino (main)
+git merge ramaOrigen(Esta rama es el módulo trabajado)
