@@ -1,3 +1,7 @@
 //Para hacer merge entre dos ramas se debe seguir el siguiente comando
 1.-Situarse en la rama destino (main)
-git merge ramaOrigen(Esta rama es el módulo trabajado)
+git checkout main
+git merge ramaOrigen(Esta rama es el módulo trabajado) => Si hubiera conflictos resolverlos
+git commit -m "Merge de la rama modulo y la rama main" => COmpletamos el proceso de fusión
+git push origin main => HAcer push ara que otros devs se lo puedan descargar
+

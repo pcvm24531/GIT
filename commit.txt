@@ -1,4 +1,5 @@
 #GIT COMMIT
 Cada vez que hacemos commit es como crear versiones del proyecto, cada commit es una version.
+Envia todo lo que esta en el staging hacia el repositorio definitivo
 git commit -m 'Descripcion de los cambios' => El comando commit coloca los archivos al repositorio, el repositorio tiene un nombre por defecto, su nombre es 'master/main'
                 => master/main es el lugar donde estan todos los cambios que realizamos en un proyecto

@@ -1,0 +1,3 @@
+#GIT RM => Este comando ayuda a eliminar archivos de GIT sin eliminar su historial del sistema de versiones.
+$git rm --cached => Elimina archivos del repositorio local y el stagin area, pero los mantiene en el disco duro. 
+$git rm --force => Elimina archivos de GIT y del disco duro.

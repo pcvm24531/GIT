@@ -1,0 +1,5 @@
+#Este comando descartará los cambios y restaurará el archivo a la versión del último commit
+#La ejecución de este comando es irreversible, eliminando todos los cambios no confirmados.
+
+$git restore nombreArchivo => Descarta los cambios del archivo y lo regresa al último commit
+$git restore . => Descarta los cambios de todo el directrorio de trabajo a la versión del último commit

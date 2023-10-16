@@ -7,3 +7,5 @@ $git checkout 6fc600838f28c34ce9e5c2f7df33fdd0561ea76f nombreArchivo.ext =>  Nos
 $git checkout maste/main nombreArchivo.txt => Vuelve a la version del repositorio, que en teoria es la ultima version.
 
 Para confirmar o recuperar una version pasada se debe hacer add. y posterior commit, esto sobre escribira por completo la version de la rama master/main.
+
+$git checkout nombreDelArchivo => Descarta los cambios realizados y lo restaura a la versión anterior.

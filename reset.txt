@@ -6,3 +6,6 @@ git reset 23fc94980c2b70d0083bd08fd71fa444394a0875 --hard => Con este comando to
 git reset 23fc94980c2b70d0083bd08fd71fa444394a0875 --soft => Vuelve al estado anterior, pero lo que esta en el stagin se mantiene en el stagin.
                                                              Borra los commits anteriores, pero guarda los cambios en staging, para aplicar las ultimas actualizaciones en un nuevo commit.
 git reset 23fc94980c2b70d0083bd08fd71fa444394a0875 --mixed => Borra todo, toda información de los commits y del áreade staging se elimina el historial.
+git reset HEAD => Este comando permite revertir los cambios que estaban preparados para subir y moverlos de vuelta al proyecto. Con este comando podemos cancelar los cambios agregados,
+                  para que se pueda revisar, modificar o deshacer antes de confirmar los commits.
+

@@ -1,0 +1,3 @@
+#GIT FETCH, Permite traer cambios del repositorio remoto al repositorio local, pero no lo copia en nuestros archivos.
+Segudo del fetch se debe hacer un git merge para actualizar nuestro repo local con los datos del repo remoto.
+Para no usar ambos comando se puede usar git pull
