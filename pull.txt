@@ -1,1 +1,2 @@
-GIT PULL, obtiene todos los cambios del repositorio remoto hacia el repositorio local
+#GIT PULL, obtiene todos los cambios del repositorio remoto hacia el repositorio local
+git pull

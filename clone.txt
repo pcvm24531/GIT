@@ -1,0 +1,2 @@
+#GIT CLONE Trae datos o obtiene datos de un servidor
+git clone url => trae una copia del master al directorio de trabajo local, tambien obtien el historial de la base de datos de todos los cambios historicos en el repositorio local

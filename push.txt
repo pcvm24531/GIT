@@ -1,1 +1,2 @@
 #GIT PUSH, envia el proyecto del repositorio local a repositorio remoto
+git push => envia todo del repositorio local al servidor remoto
