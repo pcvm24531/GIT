@@ -4,7 +4,7 @@ Comando que nos permite traer cambios del repositorio a nuestra carpeta. Este co
 $git checkout nombreRama => 
 $git checkout 6fc600838f28c34ce9e5c2f7df33fdd0561ea76f nombreArchivo.ext =>  Nos permite obtener el archivo en el commit seleccionado, con todo su contenido inicial, esto es reconocido
                                                                              por el staging y si hacemos un commit borraremos los cambios.
-$git checkout maste/main nombreArchivo.txt => Vuelve a la version del repositorio, que en teoria es la ultima version.
+$git checkout master/main nombreArchivo.txt => Vuelve a la version del repositorio, que en teoria es la ultima version.
 
 Para confirmar o recuperar una version pasada se debe hacer add. y posterior commit, esto sobre escribira por completo la version de la rama master/main.
 
