@@ -2,6 +2,6 @@
 git push => envia todo del repositorio local al servidor remoto
 
 #Hacer push a un repositorio remoto
-git remote add origin httpS:/github.com/pcvm2453/gitNotes.git
+git remote add origin https://github.com/pcvm2453/gitNotes.git
 git branch -M main
 git push -u origin main
