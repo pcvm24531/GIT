@@ -1,0 +1,12 @@
+En Local crear una llave privada y una publica
+1.-Escribir el siguiente comando ubicado en el repositorio home
+2.-$ ssh-keygen -t rsa -b 4096 -C "pcvm2453@gmail.com" => De esta manera generamos las llaves
+
+3.-Luego de ejecutar el comando anterior podemos o no crear un phraseskey
+4.-Luego se grea un archivo .ssh en el home de la maquina
+5.-Abrimos el archivo creado id_rsa.pub y copiamos su contenido
+6.-Creamos un proceso que escuche constantemente las llaves
+7.-$ eval $(ssh-agent -s) => Esto nos retornará el codigo de un proceso
+
+8.-Agregamos la llave al servidor, para eso ejecutamos el comando
+9.-$ ssh-add ~/.ssh/id_rsa => Enter y con eso agregamos la identidad
