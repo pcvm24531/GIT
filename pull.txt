@@ -1,2 +1,2 @@
 #GIT PULL, obtiene todos los cambios del repositorio remoto hacia el repositorio local
-git pull
+git pull origin main --allow-unrelated-histories => Comando nos ayuda a solucionar problema de REFUSING TO MERGER UNDERLATED HISTORIES
