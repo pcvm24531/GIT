@@ -1,6 +1,6 @@
 #GIT LOG
 git log => Muestra todos los commits de nuestro proyecto
-git log --all => Muestra absolutamente todos los cambios realizados
+git log --all => Muestra absolutamente todos los cambios realizados en el proyecto
 git log --graph => Muestra el movimiento de como funcionaron las ramas
 git log --graph --decorate --oneline => Muestra un log mas comprimido graficamente
 $git log nombreArchvo.ext => Muestra la historia de un archivo.
