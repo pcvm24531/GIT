@@ -1,0 +1,4 @@
+#Crear un tag, un tag es una referencia a un commit 
+
+git tag -a v0.1 -m 'Descripcion del tag' d8bf125(codigo del commit) => Creamos un tag
+git tag => Permite ver los tags creados
