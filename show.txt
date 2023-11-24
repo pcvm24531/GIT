@@ -1,3 +1,7 @@
 #GIT SHOW
 git show nombreArchivo.ext => Muestra los cambios que han existido sobre un archivo.
 git show-ref --tags => Muestra los tags relacionados que se han creado.
+
+#Comando que nos muestra las ramas y su historia
+git show-branch 
+git show-branch --all => Muestra más detallado
