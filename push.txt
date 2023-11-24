@@ -7,3 +7,9 @@ git push origin main => Subimos los cambios a nuestro repositorio remoto
 
 git branch -M main
 git push -u origin main
+
+#Subir tags al repositorio
+git push origin --tags
+
+#Actualizar y eliminar tags en el repositorio
+git push origin :refs/tags/nombreTag

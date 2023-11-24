@@ -2,3 +2,4 @@
 
 git tag -a v0.1 -m 'Descripcion del tag' d8bf125(codigo del commit) => Creamos un tag
 git tag => Permite ver los tags creados
+git tag -d nombreTag => Permite eliminar el tag
