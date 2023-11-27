@@ -19,7 +19,7 @@ body{
 #cabecera{
     background-color: black;
     box-shadow: 0px 2px 20px 0px rgba(red, green, blue, 0.75);
-    color: white;
+    color: #333;
     margin: 0;
     padding: 0.5em;
     font-size: 2em;
@@ -29,4 +29,17 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.5em;
+}
+#footer{
+    background-color: rgba(0, 102, 255, 0.9);
+    color: #f2f2f2a9;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-style: italic;
 }

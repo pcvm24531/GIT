@@ -1,6 +1,6 @@
 #GIT BRANCH => Permite crear nuevas ramas
 git banch cabecera => Nos permite crear el branch cabecera. 
-git branch -d nombreRama => Si existen cambios no eliminara el brancha hasta fusionar o se descarten los cambios.
+git branch -d nombreRama => Si existen cambios no eliminara el branch hasta fusionar o se descarten los cambios.
 git branch -D nombreRama => Elimina la rama de git sin importar que existan cambios sin fusionar.
 
 #Comando para establecer una rama como main
