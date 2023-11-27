@@ -1,0 +1,2 @@
+#Pull Request : Carateristica exclusiva de GITHUB, permite a personas que no son colaboradores trabajar en un proyecto
+#En GITLAB se llama merge request
