@@ -1,0 +1,3 @@
+#Esto hace que se pueda agarrar una rama entera, y pegar a la rama main, sin ahcer merge convencional
+#Esto solo para trabajar en repositorios locales y no repositorios remtos
+

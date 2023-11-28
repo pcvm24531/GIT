@@ -1,0 +1,5 @@
+#Para poder publicar un proyecto, GITHUB tiene un espacio de hosting gratis
+1.-pages.github.com
+2.-crear un repositorio nuevo con el nombre de usuario
+3.-el repositoriod ebe ser público
+4.-creamos el repositorio
