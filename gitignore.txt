@@ -2,4 +2,4 @@
 Ejemplo
 
 *.jpg => Esta instrución nos dice que va a ignorar cualquier archivo con la extensión .jpg
-
+*.log => Se esta ignorando los logs
