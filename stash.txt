@@ -4,4 +4,4 @@ git stash => Guarda los cambios en un lugar temporal.
 git stash list => Muestra todos los lugares temporales 
 git stash pop => Abre el stash que tenia 
 
-git stash branch nuevoBranch => Este comando crea un nuevo banch con los cambios no comiteados
+git stash branch nuevoBranch => Este comando crea un nuevo banch con los cambios no comiteados.
