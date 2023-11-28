@@ -1,0 +1,3 @@
+# Este comando puede traer COMMITS antiguos al head del branch que deseemos
+
+git cherry-pick dca45s52 => donde el codigo puede pertenecer a un commit de otro branch. Con este comando podemos agregar el contenido del commit en nuestra rama.
