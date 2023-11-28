@@ -1,0 +1,5 @@
+#Este comando se puede usar para guardar temporalmente los cambios sin TENER QUE HCER COMMIT,
+
+git stash => Guarda los cambios en un lugar temporal.
+git stash list => Muestra todos los lugares temporales 
+git stash pop => Abre el stash que tenia 
