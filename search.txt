@@ -1,0 +1,29 @@
+#Buscar en archivos y commits de GIT, utilizando grep y log
+
+#Buscar PALABRAS en archivos
+git grep color => Muestra una lista de archivos que contiene la palabra color(color es la variable)
+git grep -n color  => Muestra la los archivos y la linea donde se encontro la palabra
+
+git grep -c "<p>" => Cuenta las veces que usamos la etiqueta p(Para buscar etiquetas debemos usar comillas)
+git grep -c hola => Cuenta las veces que usamos la paralabra hola
+
+
+#Buscar en la HISTORIA de los commits, para ello usamos el comando LOG
+git log -S 'cabecera'
+
+
+#Buscar los mensajes de los commits, los nombres de las personas que hicieron commit
+git shortlog => Permite ver cuantos commits ha realizado cada miembro del equipo
+git shortlog -sn => Muestra las personas y el nro de commits
+
+git shortlog -sn --all --no-merges => Muestra el nro de commits que no se han hecho merge.
+
+
+#Con el siguiente comnado podemos ver linea por linea quien y que cosa ha realizado
+git blame archivo.txt => Muestra el archivo en cuestrion con el autor del código linea por linea
+
+
+#Como ver el manual de cada comando?
+git blame --help
+git log --help
+, etc...
