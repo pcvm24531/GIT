@@ -1,0 +1,6 @@
+# Este comando limpia archivos que no queremos agregar al repositorio
+# No borra lo que esta restringido en el gitignore
+
+git clean --dry-run => Hace una simulacion de los archivos que serán removidos
+
+git clean -f => Borra los archivos que deseamos eliminar
