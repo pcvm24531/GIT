@@ -1,0 +1,11 @@
+1.- Crear un repositorio en github que no contenga el READMI ni .gitignore.
+2.- Situarse en la carpeta o repositorio del proyecto local.
+3.- Agregar el repositorio remoto de GITHUB como un nuevo origin
+  git remote add origin <URL>
+4.- Verificar la nueva configuracion
+  git remote -v
+5.- Subir los cambios al repositorio remoto
+  git push -u origin main
+
+Nota: si sale el error REFUSING TO MERGER UNDERLATED HISTORIES, usar el siguiente comando
+git pull origin main --allow-unrelated-histories => Comando nos ayuda a solucionar problema de REFUSING TO MERGER UNDERLATED HISTORIES
