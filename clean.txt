@@ -4,3 +4,6 @@
 git clean --dry-run => Hace una simulacion de los archivos que serán removidos
 
 git clean -f => Borra los archivos que deseamos eliminar
+
+#Eliminar una carpeta no traqueada
+git clean -f node_modules/
