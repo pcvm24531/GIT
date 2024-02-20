@@ -2,4 +2,4 @@
 git diff => Muestra los cambios o diferencias que estan en la RAM(Stagin) y lo que esta en el disco
 git diff  23423sdfsdfsdfsdfsdfs 465f4s6df46s46fsd=> Muestra la diferencia entre 2 commits, los caracteres indican el numero del commit o identificados
                                                     Compara el commit más reciente con el commit que nosotros especifiquemos.
-                                                    
+git diff commit1 commit2 nombreArchivo.ext => Muestra la diferencia del archivo entre ambos commits                                                    
