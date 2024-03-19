@@ -1,6 +1,6 @@
 En Local crear una llave privada y una publica
 1.-Escribir el siguiente comando ubicado en el repositorio home
-2.-$ ssh-keygen -t rsa -b 4096 -C "pcvm2453@gmail.com" => De esta manera generamos las llaves
+2.-$ ssh-keygen -t rsa -b 4096 -C "correoAutorizar@gmail.com" => De esta manera generamos las llaves
 
 3.-Luego de ejecutar el comando anterior podemos o no crear un phraseskey
 4.-Luego se grea un archivo .ssh en el home de la maquina
@@ -10,7 +10,6 @@ En Local crear una llave privada y una publica
 
 8.-Agregamos la llave al servidor, para eso ejecutamos el comando
 9.-$ ssh-add ~/.ssh/id_rsa => Enter y con eso agregamos la identidad
-
 
 #Vincular nuestro proyecto local con el repositorio mediante SSH
 1.Copiamos la llave publica de nuestro home(Lo abrimos con VSC)
