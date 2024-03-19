@@ -14,6 +14,6 @@ En Local crear una llave privada y una publica
 
 #Vincular nuestro proyecto local con el repositorio mediante SSH
 1.Copiamos la llave publica de nuestro home(Lo abrimos con VSC)
-2.Abrimos el github en el nacegador, buscamos configuraciones, llaves ssh
+2.Abrimos el github en el navegador, buscamos configuraciones, llaves ssh
 3.Creamos una nueva key por cada computadora que tengamos, le agregamos un titulo, copiamos la llave publica
 4.Guardar y ya tenemos todo listo
