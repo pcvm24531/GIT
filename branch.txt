@@ -5,3 +5,6 @@ git branch -D nombreRama => Elimina la rama de git sin importar que existan camb
 
 #Comando para establecer una rama como main
 git branch -m main => Establecemos la rama como principal
+
+#Comando para ver todas las ramas remotas, la bandera -r indica remote
+git branch -r
