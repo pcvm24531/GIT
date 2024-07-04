@@ -1,0 +1,14 @@
+##Crear una nuevo proyecto a partir de otro y cambiar la url remote
+1.-En el equipo local, clonar el repositorio remoto
+  git clone https://gitlab.com/original-username/original-project.git
+2.-En la WEB, crear o clonar el proyecto
+3.-En el equipo local acceder al la carpeta clonada
+  cd proyecto_clonado
+4.-Establecer el nuevo repositorio remoto
+  git remote set-url origin https://gitlab.com/new-username/new-project.git
+5.-Subir los archivos locales al repositorio remoto clonado
+  git push -u origin main
+
+##Remover repositorio remoto de repositorio local
+1.- Situarse en el proyecto local y ejecutar el siguiente comando
+  git remote remove upb-frontend-external-devs
