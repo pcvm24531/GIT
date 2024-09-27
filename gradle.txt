@@ -1,1 +1,18 @@
 ---------GRADLE---------
+Carpetas creadas automaticamente
+  build.gradle -> Archivo que se encarga de configurar como va a compilar, como va empaquetar el proyecto, se pueden definir tareas, añadir dependencias, también es considerado como un build script.
+  settings.gradle -> Archivo que se encarga de configurar la estructura del proyecto en general
+  gradle.properties(Opcional) -> Para definir diferentes tipos de variables que se usarán en el proyecto. Por ejemplo podemos especificar versiones de dependencias, 
+  dradlew -> Ejecutable
+  gradlew.bat -> Ejecutable
+  /.gradle/wraper/gradle-wrapper.jar -> 
+  /.gradle/wraper/gradle-wrapper.properties -> Gestiona las diferentes versiones de gradle
+  /src/
+  /src/main/java -> Contiene el codigo fuente JAVA
+  /src/main/java/resources/ -> Contiene las imagenes, etc.
+  /src/test/java -> Contiene los test
+  /src/test/java/resources/ -> 
+  /build/ -> Contiene todas las clases, archivos, carpetas que ha necesitado gradle para compilar el proyecto. Aqui aparecen los archivos JAR
+
+--------GROOVY-------
+Es un lenguaje de programación dinámico.
