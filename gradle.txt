@@ -1,4 +1,6 @@
 ---------GRADLE---------
+Es una herramienta de construcción de software(Build System) que automatizael proceso de compilación, pruebas y empaquetado de proyectos.
+Ayuda a manejar dependencias y mediante el uso plugins facilita el trabajo diario.
 Carpetas creadas automaticamente
   build.gradle -> Archivo que se encarga de configurar como va a compilar, como va empaquetar el proyecto, se pueden definir tareas, añadir dependencias, también es considerado como un build script.
   settings.gradle -> Archivo que se encarga de configurar la estructura del proyecto en general
@@ -15,4 +17,11 @@ Carpetas creadas automaticamente
   /build/ -> Contiene todas las clases, archivos, carpetas que ha necesitado gradle para compilar el proyecto. Aqui aparecen los archivos JAR
 
 --------GROOVY-------
-Es un lenguaje de programación dinámico.
+Es un lenguaje de programación dinámico, que corre dentro de la máquina virtual de java(JVM)
+
+--------DEPENDENCIA-----------
+Es una libreria que podemos incluir en nuestro proyecto. Esto nos permite ejecutar código, instaciar objetos que contenta dicha libreria.
+
+-------MANIFEST----------
+Es un componente que contiene metadatos sobre el archivo .JAR.
+Contiene información del programa y entre ella, la clase principal que ha de ejecutar.
