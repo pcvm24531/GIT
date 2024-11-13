@@ -13,3 +13,8 @@ git push origin --tags
 
 #Actualizar y eliminar tags en el repositorio
 git push origin :refs/tags/nombreTag
+
+#ERROR -> ! [rejected] main -> main (non-fast-forward)
+#Obtenemos los últimos cambios del repositorio
+git pull origin main --rebase
+git push origin main --force
