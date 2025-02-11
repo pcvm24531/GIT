@@ -1,0 +1,7 @@
+-Permite trabajar con multiples entornos aislados
+-Podemos trabajar con ramas diferentes en directorios diferentes.
+
+$git worktree add <directorio> <rama> =>
+$git worktree add -b <rama> <directorio> =>
+$git wortree list =>
+$gir worktree remove <directorio> => 
