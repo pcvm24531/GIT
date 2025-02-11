@@ -1,7 +1,10 @@
 #Este comando se puede usar para guardar temporalmente los cambios sin TENER QUE HCER COMMIT,
 
+git add. => Agregamos al stage
 git stash => Guarda los cambios en un lugar temporal.
 git stash list => Muestra todos los lugares temporales 
-git stash pop => Abre el stash que tenia 
+git stash apply => Aplica los cambios y los mantiene en el stage
+git stash pop => Abre el stash que tenia y luego elimina
+git stash clear => Elimina los cambios en el stacs
 
 git stash branch nuevoBranch => Este comando crea un nuevo banch con los cambios no comiteados.
