@@ -9,3 +9,5 @@ $git checkout master/main nombreArchivo.txt => Vuelve a la version del repositor
 Para confirmar o recuperar una version pasada se debe hacer add. y posterior commit, esto sobre escribira por completo la version de la rama master/main.
 
 $git checkout nombreDelArchivo => Descarta los cambios realizados y lo restaura a la versión anterior.
+
+$git checkout -b newBranch  => Crea una nueva rama y se cambia automaticamente.
