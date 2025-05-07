@@ -4,8 +4,14 @@
 2.-En la WEB, crear o clonar el proyecto
 3.-En el equipo local acceder al la carpeta clonada
   cd proyecto_clonado
+
+
+3.1.-Agregamos nuevo repositorio
+  git remote add origin https://github.com/usuario/repositorio.git
 4.-Establecer el nuevo repositorio remoto
   git remote set-url origin https://gitlab.com/new-username/new-project.git
+
+
 5.-Subir los archivos locales al repositorio remoto clonado
   git push -u origin main
 
